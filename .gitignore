@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Configuration files, may contain secrets
+*.config
+
+# Test files for scrap code
+test.py
+test.txt
